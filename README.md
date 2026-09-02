@@ -6,4 +6,4 @@ Necesitarán Git instalado, o pueden descargar el .zip, como deseen.
 ```sh
 git clone https://github.com/erlegaco/Enciclopedia
 ```
-Para instalar Git en Windows Pueden entrar a su sitio oficial. (Windows GIT)[https://git-scm.com/install/windows]
+Para instalar Git en Windows Pueden entrar a su sitio oficial. [Windows Git](https://git-scm.com/install/windows)
